@@ -18,8 +18,10 @@
     "global-require": "off",
     "no-console": "off",
     "import/prefer-default-export": "off",
-    "comma-dangle":"off",
-    "eol-last":"off"
+    "comma-dangle": "off",
+    "eol-last": "off",
+    "no-use-before-define": "off",
+    "linebreak-style": "off"
   },
   "globals": {
     "__DEV__": true
